@@ -22,7 +22,6 @@ M.Eng. in Financial Technology at **Duke University** (expected May 2028). Looki
 
 ## Background
 
-- **Quant research intern**, Guangzhou Chuanshan Private Fund (2024). I built the alpha research pipeline, a Barra-style risk model and a constrained portfolio optimizer. They fed the fund's market-neutral and stock multi-factor products.
 - **Kaggle Jane Street Real-Time Market Data Forecasting**: Silver Medal, 72nd of 3,757 teams (top 2%).
 - **Graph learning research**: co-author of papers in *Neural Networks*, *ACM TKDD*, *The Web Conference (WWW)* and *Neurocomputing* ([ORCID](https://orcid.org/0009-0008-5479-2580)).
 
