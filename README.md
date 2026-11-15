@@ -10,14 +10,15 @@ M.Eng. in Financial Technology at **Duke University** (expected May 2028). Looki
 
 ## What I'm working on
 
-- **[quantlab](https://github.com/ZhaorongDai/quantlab)**: an open-source Python backend for quantitative equity research. It takes raw prices through factors, return models, portfolio weights and backtests. [Docs](https://zhaorongdai.github.io/quantlab/) · [PyPI](https://pypi.org/project/quantlab-py/) (1,700+ downloads)
+- **[quantlab](https://github.com/ZhaorongDai/quantlab)**: an open-source Python backend for quantitative equity research. It takes raw prices through factors, return models, portfolio weights and backtests. [Docs](https://zhaorongdai.github.io/quantlab/) · [PyPI](https://pypi.org/project/quantlab-py/)
 - **[quantlab-factor-agent](https://github.com/ZhaorongDai/quantlab-factor-agent)**: LLMs propose mechanism-based factors, and each one must pass fixed statistical checks before it is admitted.
 - **[quantlab-live](https://github.com/ZhaorongDai/quantlab-live)**: runs quantlab strategies live and in replay on NautilusTrader.
 
 ## Open source
 
-- **[KunQuant](https://github.com/Menooker/KunQuant)**, a compiler for financial factor expressions: I merged 2 bug-fix PRs (windowed max drawdown, expression folding) and wrote the Rust bindings, **[KunQuant-rs](https://github.com/ZhaorongDai/KunQuant-rs)** ([crates.io](https://crates.io/crates/kunquant_rs), 1,600+ downloads).
-- **[binance-data-downloader](https://github.com/ZhaorongDai/binance-data-downloader)**: an async CLI for Binance's public market data archive ([PyPI](https://pypi.org/project/binance-data-downloader/), 9,600+ downloads).
+- **[KunQuant](https://github.com/Menooker/KunQuant)**: contributor to this compiler for financial factor expressions.
+- **[KunQuant-rs](https://github.com/ZhaorongDai/KunQuant-rs)**: Rust bindings for KunQuant ([crates.io](https://crates.io/crates/kunquant_rs)).
+- **[binance-data-downloader](https://github.com/ZhaorongDai/binance-data-downloader)**: an async CLI for Binance's public market data archive ([PyPI](https://pypi.org/project/binance-data-downloader/)).
 
 ## Background
 
