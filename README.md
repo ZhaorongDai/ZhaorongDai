@@ -20,11 +20,6 @@ M.Eng. in Financial Technology at **Duke University** (expected May 2028). Looki
 - **[KunQuant-rs](https://github.com/ZhaorongDai/KunQuant-rs)**: Rust bindings for KunQuant ([crates.io](https://crates.io/crates/kunquant_rs)).
 - **[binance-data-downloader](https://github.com/ZhaorongDai/binance-data-downloader)**: an async CLI for Binance's public market data archive ([PyPI](https://pypi.org/project/binance-data-downloader/)).
 
-## Background
-
-- **Kaggle Jane Street Real-Time Market Data Forecasting**: Silver Medal, 72nd of 3,757 teams (top 2%).
-- **Graph learning research**: co-author of papers in *Neural Networks*, *ACM TKDD*, *The Web Conference (WWW)* and *Neurocomputing* ([ORCID](https://orcid.org/0009-0008-5479-2580)).
-
 ## Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
